@@ -42,4 +42,4 @@ Live and Operational - 2025 to Present
 ## Roadmap 
 - Phase 1: Solana trading - live
 - Phase 2: Ethereum network integration - upcoming
-- Phase 3: Web Platform with KOL tracking and copy trading and cross-chain bridge - upcoming
+- Phase 3: Web Platform with KOL tracking and copy trading and cross-chain bridge - in development at skiltex.io
