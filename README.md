@@ -25,7 +25,7 @@ A live Solana trading bot built and deployed independently via Telegram.
 -  Solana RPC
 -  Jupiter v1 Lite API
 -  Telegram Bot API
--  Oracle Cloud Infrastructure
+-  Hetzner Cloud Infrastructure
 -  Ubuntu 22.04
 -  Webhook
 -  DexScreener
@@ -34,7 +34,7 @@ A live Solana trading bot built and deployed independently via Telegram.
   
 ## Architecture
 Non-custodial. Users connect external wallets or use a bot-generated wallet. Zero platform access to private keys at any point.
-Deployed on Oracle Cloud Infrastructure
+Deployed on Hetzner Cloud Infrastructure
 
 ## Status
 Live and Operational - 2025 to Present
